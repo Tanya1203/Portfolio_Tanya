@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  background: #05060a;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #05060a;
+}
+
+#root {
+  min-height: 100vh;
+}
